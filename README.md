@@ -1,1 +1,1 @@
-# IS_Practical
+#Information and Security Practicals
